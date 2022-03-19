@@ -1,6 +1,6 @@
 # The-Layout-Editor
 
- ![hellotoast-codingchallenge-2](hellotoast-coding challegne-2.2.gif)
+![Tux, the Linux mascot](hellotoast-coding%20challegne-2.2.gif)
  
  
 
